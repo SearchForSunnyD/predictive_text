@@ -4,7 +4,6 @@
 }
 
 :focus {
- /* TODO */
 }
 
 body {
@@ -15,7 +14,6 @@ body {
 }
 
 input {
-  /* TODO */
 }
 
 .search-container {
@@ -39,7 +37,6 @@ input {
     font-weight: bold;
 }
 .search-container .suggestions {
- /* TODO */
 }
 
 ul {
